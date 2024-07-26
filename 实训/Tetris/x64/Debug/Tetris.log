@@ -1,0 +1,15 @@
+﻿  Tetris.cpp
+D:\Code\Tetris\Tetris\page.h(28,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“Tetris.cpp”)
+  
+D:\Code\Tetris\Tetris\Tetris.cpp(61,7): warning C4101: “data”: 未引用的局部变量
+D:\Code\Tetris\Tetris\Tetris.cpp(322,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\Tetris\Tetris\Tetris.cpp(322,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\Tetris\Tetris\Tetris.cpp(466,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\Tetris\Tetris\Tetris.cpp(470,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\Tetris\Tetris\Tetris.cpp(470,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\Tetris\Tetris\Tetris.cpp(474,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\Tetris\Tetris\Tetris.cpp(474,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+x64\Debug\page.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+x64\Debug\Tetris.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  Tetris.vcxproj -> D:\Code\Tetris\x64\Debug\Tetris.exe
